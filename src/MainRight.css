@@ -1,0 +1,20 @@
+.main-right{
+	display: flex;
+	flex-wrap: wrap;
+}
+.video{
+	margin-right: 10px;
+}
+.video-all{
+	display: flex;
+	width: 295px;
+}
+.video-details{
+	width: 295px;
+	margin-left: 10px;
+}
+img{
+	width: 295px;
+	height: 166px;
+	border-radius: 10px;
+}
